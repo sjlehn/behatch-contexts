@@ -19,7 +19,7 @@
         "justinrainbow/json-schema": "^5.2",
         "symfony/dom-crawler": "^4.4|^5.4|^6.0",
         "symfony/http-foundation": "^4.4|^5.4|^6.0",
-        "symfony/property-access": "^5.4|^6.0"
+        "symfony/property-access": "^4.4|^5.4|^6.0"
     },
     "require-dev": {
         "atoum/atoum": "^4.0",
